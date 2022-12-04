@@ -15,4 +15,4 @@ I became a data scientist because I am ready to take my experience in the techno
 - 🗽 NJ/NY based
 - 🥅 Goal: Continue my 2022 goal of travelling more outside the country!
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ahing.id&left_color=green&right_color=red)
